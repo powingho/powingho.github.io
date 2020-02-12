@@ -1,0 +1,173 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>关于 | KEONANDC</title>
+<link rel="shortcut icon" href="https://powingho.github.io/favicon.ico?v=1581512623723">
+<link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://powingho.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="关于 | KEONANDC - Atom Feed" href="https://powingho.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145324150-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145324150-1');
+</script>
+
+
+    <meta name="description" content="
+“《春光乍泄》是在九七回归将至时创作的，当时香港地区的人心态一般都很复杂，很多人甚至考虑要不要离开、远走他乡之类的，而黎耀辉和何宝荣的故事，其实我觉得同性感情倒在其次，更重要的是其中关于漂泊流浪的那种情怀，就像影片结尾处的张震一样，之所以..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://powingho.github.io">
+  <img class="avatar" src="https://powingho.github.io/images/avatar.png?v=1581512623723" alt="">
+  </a>
+  <h1 class="site-title">
+    KEONANDC
+  </h1>
+  <p class="site-description">
+    原来寂寞的时候，所有人都一样
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+      
+        <a href="http://hisilicon.hotpotwing.tk" class="menu" target="_blank">
+          华为海思
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              关于
+            </h2>
+            <div class="post-info">
+              <span>
+                2000-01-01
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <figure data-type="image" tabindex="1"><img src="http://wx2.sinaimg.cn/large/697b3ffbly1frbx3librwj21hc0u01ky.jpg" alt="" loading="lazy"></figure>
+<p>“《春光乍泄》是在九七回归将至时创作的，当时香港地区的人心态一般都很复杂，很多人甚至考虑要不要离开、远走他乡之类的，而黎耀辉和何宝荣的故事，其实我觉得同性感情倒在其次，更重要的是其中关于漂泊流浪的那种情怀，就像影片结尾处的张震一样，之所以能开心地‘能走多远走多远’，是因为他知道永远有一处地方可以让他回去，这应该说是我的一种情结。”</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://powingho.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
