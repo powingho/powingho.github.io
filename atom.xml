@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hotpotwing.tk</id>
     <title>KEONANDC</title>
-    <updated>2021-02-09T15:46:24.227Z</updated>
+    <updated>2021-02-09T15:52:01.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hotpotwing.tk"/>
     <link rel="self" href="https://hotpotwing.tk/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, KEONANDC</rights>
     <entry>
         <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC水木剧《Run On》终映采访]]></title>
-        <id>https://hotpotwing.tk/post/choisooyoung-jtbc-runon-interviwes/</id>
-        <link href="https://hotpotwing.tk/post/choisooyoung-jtbc-runon-interviwes/">
+        <id>https://hotpotwing.tk/post/choisooyoung-jtbc-runon-interviews/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-jtbc-runon-interviews/">
         </link>
         <updated>2021-02-08T13:33:55.000Z</updated>
     </entry>
