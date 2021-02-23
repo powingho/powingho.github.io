@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hotpotwing.tk</id>
     <title>KEONANDC</title>
-    <updated>2021-02-22T20:21:14.485Z</updated>
+    <updated>2021-02-23T19:36:42.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hotpotwing.tk"/>
     <link rel="self" href="https://hotpotwing.tk/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://hotpotwing.tk/images/avatar.png</logo>
     <icon>https://hotpotwing.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, KEONANDC</rights>
+    <entry>
+        <title type="html"><![CDATA[采访翻译｜崔秀英2021年杂志《Marie Claire》3月号]]></title>
+        <id>https://hotpotwing.tk/post/choisooyoung-marieclaire-march-2021-interview/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-marieclaire-march-2021-interview/">
+        </link>
+        <updated>2021-02-23T15:18:53.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="gender-free">Gender Free</h3>
+<p>希望更多的女演员们在作品中积累并存在各自的叙事，还有为了传达以期待展开更多女人的故事的心情和为演员们能够充分释放对演技的渴求、渴望应援的心情，和8位女演员一起的Gender Free 2021。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="gender-free">Gender Free</h3>
+<p>希望更多的女演员们在作品中积累并存在各自的叙事，还有为了传达以期待展开更多女人的故事的心情和为演员们能够充分释放对演技的渴求、渴望应援的心情，和8位女演员一起的Gender Free 2021。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访翻译｜权俞利2021年迷你剧《暂缓离别，一周》一问一答]]></title>
         <id>https://hotpotwing.tk/post/kwonyuri-breakupprobation-interview/</id>
@@ -63,7 +76,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬 2020年tvN电视剧《机智的医生生活》终映采访（news1）]]></title>
+        <title type="html"><![CDATA[采访翻译｜申贤彬2020年tvN电视剧《机智的医生生活》终映采访（news1）]]></title>
         <id>https://hotpotwing.tk/post/shinhyunbeen-hospitalplaylist-interview-news1/</id>
         <link href="https://hotpotwing.tk/post/shinhyunbeen-hospitalplaylist-interview-news1/">
         </link>
@@ -76,7 +89,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬 2020年电影《抓住救命稻草的野兽们》宣传采访（news1）]]></title>
+        <title type="html"><![CDATA[采访翻译｜申贤彬2020年电影《抓住救命稻草的野兽们》宣传采访（news1）]]></title>
         <id>https://hotpotwing.tk/post/shinhyunbeen-movie-beastsclawingatstraws-interview-news1/</id>
         <link href="https://hotpotwing.tk/post/shinhyunbeen-movie-beastsclawingatstraws-interview-news1/">
         </link>
@@ -87,15 +100,15 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬 2020年杂志《Esquire Korea》6月号]]></title>
+        <title type="html"><![CDATA[采访翻译｜申贤彬2020年杂志《Esquire Korea》6月号]]></title>
         <id>https://hotpotwing.tk/post/shinhyunbeen-magazine-esquirekorea-june-interview/</id>
         <link href="https://hotpotwing.tk/post/shinhyunbeen-magazine-esquirekorea-june-interview/">
         </link>
         <updated>2020-05-22T22:27:57.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="申贤彬爱着张冬天">申贤彬爱着张冬天</h1>
+        <summary type="html"><![CDATA[<h3 id="申贤彬爱着张冬天">申贤彬爱着张冬天</h3>
 <p>演员申贤彬说，饰演角色就是和另外一个人合为一体的过程。过去的几个月里，申贤彬和《机智的医生生活》的张冬天合为了一体。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="申贤彬爱着张冬天">申贤彬爱着张冬天</h1>
+        <content type="html"><![CDATA[<h3 id="申贤彬爱着张冬天">申贤彬爱着张冬天</h3>
 <p>演员申贤彬说，饰演角色就是和另外一个人合为一体的过程。过去的几个月里，申贤彬和《机智的医生生活》的张冬天合为了一体。</p>
 ]]></content>
     </entry>
@@ -113,7 +126,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译 | Tiffany Young 2019年《Magnetic Moon》韩国宣传采访（MK Sports）]]></title>
+        <title type="html"><![CDATA[采访翻译 | Tiffany Young 2019年巡演《Magnetic Moon》韩国宣传采访（MK Sports）]]></title>
         <id>https://hotpotwing.tk/post/tiffany-young-2019-magnetic-moon-korea-interview-mksports/</id>
         <link href="https://hotpotwing.tk/post/tiffany-young-2019-magnetic-moon-korea-interview-mksports/">
         </link>
@@ -121,17 +134,6 @@
         <summary type="html"><![CDATA[<p>少女时代成员 Tiffany 成为 Pop Star Tiffany Young 回来了。和 SM 娱乐专属合约期满后，Tiffany Young 在美国开拓了新市场，她顺利地度过了那段岁月，成为了Diva。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>少女时代成员 Tiffany 成为 Pop Star Tiffany Young 回来了。和 SM 娱乐专属合约期满后，Tiffany Young 在美国开拓了新市场，她顺利地度过了那段岁月，成为了Diva。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访翻译 | 林润娥 2019年电影《EXIT》宣传采访（maxmovie）]]></title>
-        <id>https://hotpotwing.tk/post/limyoona-maxmovie-exit-interview-2019/</id>
-        <link href="https://hotpotwing.tk/post/limyoona-maxmovie-exit-interview-2019/">
-        </link>
-        <updated>2019-07-26T22:50:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>穿着白色迷你连衣裙和运动鞋朝气地唱着《重逢的世界》，是对林润娥的第一印象。从那开始的12年后，少女时代的门面成为了国内发行公司期待作碰撞的夏季市场的主演。今年即将迎来30岁的林润娥，现在开始了她人生的第二幕。不要因为是熟悉的面孔就提前作出结论，即便出道已经超过10年，但她还有许多要展现的东西。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>穿着白色迷你连衣裙和运动鞋朝气地唱着《重逢的世界》，是对林润娥的第一印象。从那开始的12年后，少女时代的门面成为了国内发行公司期待作碰撞的夏季市场的主演。今年即将迎来30岁的林润娥，现在开始了她人生的第二幕。不要因为是熟悉的面孔就提前作出结论，即便出道已经超过10年，但她还有许多要展现的东西。</p>
 ]]></content>
     </entry>
 </feed>
