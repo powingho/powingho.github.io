@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hotpotwing.tk</id>
     <title>KEONANDC</title>
-    <updated>2021-03-14T10:55:01.562Z</updated>
+    <updated>2021-03-14T10:57:17.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hotpotwing.tk"/>
     <link rel="self" href="https://hotpotwing.tk/atom.xml"/>
@@ -32,19 +32,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<h3 id="徐贤-意外地">徐贤 意外地</h3>
 <p>把一直以来所认识的徐贤抹掉也很好。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访翻译｜崔秀英2019年杂志《GQ Korea》2月号]]></title>
-        <id>https://hotpotwing.tk/post/choisooyoung-gqkorea-february-interview/</id>
-        <link href="https://hotpotwing.tk/post/choisooyoung-gqkorea-february-interview/">
-        </link>
-        <updated>2021-02-27T19:03:59.000Z</updated>
-        <summary type="html"><![CDATA[<h3 id="秀英的独立">秀英的独立</h3>
-<p>离开所属社后独立的秀英，今年就是30岁了，意味着现在才是开始。</p>
-]]></summary>
-        <content type="html"><![CDATA[<h3 id="秀英的独立">秀英的独立</h3>
-<p>离开所属社后独立的秀英，今年就是30岁了，意味着现在才是开始。</p>
 ]]></content>
     </entry>
     <entry>
@@ -136,6 +123,19 @@
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="再次相遇的世界-徐贤">再次相遇的世界 徐贤</h1>
 <p>在9月JTBC电视剧《私生活》播出前，徐贤说她现在稍微了解了，对于自己一直走来和将来要去前进的路。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[采访翻译｜徐贤 2020年杂志《Marie Claire》8月号采访]]></title>
+        <id>https://hotpotwing.tk/post/seohyun-marieclaire-august-interview/</id>
+        <link href="https://hotpotwing.tk/post/seohyun-marieclaire-august-interview/">
+        </link>
+        <updated>2020-09-17T07:50:29.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="我所生活的世界">我所生活的世界</h1>
+<p>我虽然活着，但在我不认识的世界里隐藏着某个人的私生活。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="我所生活的世界">我所生活的世界</h1>
+<p>我虽然活着，但在我不认识的世界里隐藏着某个人的私生活。</p>
 ]]></content>
     </entry>
 </feed>
