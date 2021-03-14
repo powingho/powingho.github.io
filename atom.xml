@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hotpotwing.tk</id>
     <title>KEONANDC</title>
-    <updated>2021-03-14T10:19:29.739Z</updated>
+    <updated>2021-03-14T10:49:06.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hotpotwing.tk"/>
     <link rel="self" href="https://hotpotwing.tk/atom.xml"/>
@@ -35,9 +35,22 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[采访翻译｜崔秀英2019年杂志《GQ Korea》2月号]]></title>
+        <id>https://hotpotwing.tk/post/choisooyoung-gqkorea-february-interview/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-gqkorea-february-interview/">
+        </link>
+        <updated>2021-02-27T19:03:59.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="秀英的独立">秀英的独立</h3>
+<p>离开所属社后独立的秀英，今年就是30岁了，意味着现在才是开始。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="秀英的独立">秀英的独立</h3>
+<p>离开所属社后独立的秀英，今年就是30岁了，意味着现在才是开始。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[采访翻译｜权俞利2021年《Harper's Bazaar》3月号]]></title>
-        <id>https://hotpotwing.tk/post/kwonyuri-harpersbazaar-march-2021-interview/</id>
-        <link href="https://hotpotwing.tk/post/kwonyuri-harpersbazaar-march-2021-interview/">
+        <id>https://hotpotwing.tk/post/kwonyuri-harpersbazaar-march-interview/</id>
+        <link href="https://hotpotwing.tk/post/kwonyuri-harpersbazaar-march-interview/">
         </link>
         <updated>2021-02-24T14:55:51.000Z</updated>
         <summary type="html"><![CDATA[<h3 id="yuriverse">YURIVERSE</h3>
@@ -49,8 +62,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[采访翻译｜崔秀英2021年杂志《Marie Claire》3月号]]></title>
-        <id>https://hotpotwing.tk/post/choisooyoung-marieclaire-march-2021-interview/</id>
-        <link href="https://hotpotwing.tk/post/choisooyoung-marieclaire-march-2021-interview/">
+        <id>https://hotpotwing.tk/post/choisooyoung-marieclaire-march-interview/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-marieclaire-march-interview/">
         </link>
         <updated>2021-02-23T15:18:53.000Z</updated>
         <summary type="html"><![CDATA[<h3 id="gender-free">Gender Free</h3>
@@ -73,8 +86,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC水木剧《Run On》终映采访（news1）]]></title>
-        <id>https://hotpotwing.tk/post/choisooyoung-jtbc-runon-interviews-news1/</id>
-        <link href="https://hotpotwing.tk/post/choisooyoung-jtbc-runon-interviews-news1/">
+        <id>https://hotpotwing.tk/post/choisooyoung-runon-interviews-news1/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-runon-interviews-news1/">
         </link>
         <updated>2021-02-08T13:33:55.000Z</updated>
         <summary type="html"><![CDATA[<p>在JTBC水木电视剧《Run On》中饰演徐丹雅一角的崔秀英2月8日早上接受了视频采访，传达了电视剧幕后发生的故事。</p>
@@ -101,8 +114,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[采访翻译｜崔秀英2020年杂志《Allure Korea》12月号]]></title>
-        <id>https://hotpotwing.tk/post/choisooyoung-allurekorea-december-interview-2020/</id>
-        <link href="https://hotpotwing.tk/post/choisooyoung-allurekorea-december-interview-2020/">
+        <id>https://hotpotwing.tk/post/choisooyoung-allurekorea-december-interview/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-allurekorea-december-interview/">
         </link>
         <updated>2020-11-19T21:26:57.000Z</updated>
         <summary type="html"><![CDATA[<h3 id="为了深深地扎根秀英">为了深深地扎根，秀英</h3>
@@ -113,27 +126,16 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬2020年tvN电视剧《机智的医生生活》终映采访（news1）]]></title>
-        <id>https://hotpotwing.tk/post/shinhyunbeen-hospitalplaylist-interview-news1/</id>
-        <link href="https://hotpotwing.tk/post/shinhyunbeen-hospitalplaylist-interview-news1/">
+        <title type="html"><![CDATA[采访翻译｜徐贤 2020年杂志《W Korea》8月号采访]]></title>
+        <id>https://hotpotwing.tk/post/seohyun-wkorea-august-interview/</id>
+        <link href="https://hotpotwing.tk/post/seohyun-wkorea-august-interview/">
         </link>
-        <updated>2020-06-02T03:48:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>在2020年tvN木曜日电视剧《机智的医生生活中》，热演着外科住院医生3年次张冬天的申贤彬，1日早上在首尔江南区一处咖啡厅接受了终映纪念采访。</p>
-<p>申贤彬过去出演了电视剧《推理的女王》、《情妇》、《自白》，电影《边山》、《抓住救命稻草的野兽们》之后，在这次的《机智的医生生活》中展现了存在感，作为演员的她也吸引了大众的关注。</p>
+        <updated>2020-09-17T08:13:48.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="再次相遇的世界-徐贤">再次相遇的世界 徐贤</h1>
+<p>在9月JTBC电视剧《私生活》播出前，徐贤说她现在稍微了解了，对于自己一直走来和将来要去前进的路。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>在2020年tvN木曜日电视剧《机智的医生生活中》，热演着外科住院医生3年次张冬天的申贤彬，1日早上在首尔江南区一处咖啡厅接受了终映纪念采访。</p>
-<p>申贤彬过去出演了电视剧《推理的女王》、《情妇》、《自白》，电影《边山》、《抓住救命稻草的野兽们》之后，在这次的《机智的医生生活》中展现了存在感，作为演员的她也吸引了大众的关注。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬2020年电影《抓住救命稻草的野兽们》宣传采访（news1）]]></title>
-        <id>https://hotpotwing.tk/post/shinhyunbeen-movie-beastsclawingatstraws-interview-news1/</id>
-        <link href="https://hotpotwing.tk/post/shinhyunbeen-movie-beastsclawingatstraws-interview-news1/">
-        </link>
-        <updated>2020-05-24T21:44:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>电影《抓住救命稻草的野兽们》以各个人物强烈的性格和叙事，将观众们的紧张感维持到了电影结束。他们是用演技来实现的，在全度妍、郑雨盛、裴晟佑、尹汝贞等演员们令人窒息的热情表演中，有着展现自身真正价值的演员，那个人就是主妇美兰的饰演者申贤彬。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>电影《抓住救命稻草的野兽们》以各个人物强烈的性格和叙事，将观众们的紧张感维持到了电影结束。他们是用演技来实现的，在全度妍、郑雨盛、裴晟佑、尹汝贞等演员们令人窒息的热情表演中，有着展现自身真正价值的演员，那个人就是主妇美兰的饰演者申贤彬。</p>
+        <content type="html"><![CDATA[<h1 id="再次相遇的世界-徐贤">再次相遇的世界 徐贤</h1>
+<p>在9月JTBC电视剧《私生活》播出前，徐贤说她现在稍微了解了，对于自己一直走来和将来要去前进的路。</p>
 ]]></content>
     </entry>
 </feed>
