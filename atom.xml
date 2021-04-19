@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hotpotwing.tk</id>
     <title>KEONANDC</title>
-    <updated>2021-03-23T07:56:11.812Z</updated>
+    <updated>2021-04-19T19:15:55.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hotpotwing.tk"/>
     <link rel="self" href="https://hotpotwing.tk/atom.xml"/>
@@ -11,7 +11,14 @@
     <icon>https://hotpotwing.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, KEONANDC</rights>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC水木剧《Run On》终映采访（SBS演艺新闻）]]></title>
+        <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC电视剧《Run On》终映采访（综合）]]></title>
+        <id>https://hotpotwing.tk/post/choisooyoung-runon-interviews/</id>
+        <link href="https://hotpotwing.tk/post/choisooyoung-runon-interviews/">
+        </link>
+        <updated>2021-03-14T10:18:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC电视剧《Run On》终映采访（SBS演艺新闻）]]></title>
         <id>https://hotpotwing.tk/post/choisooyoung-runon-interviews-sbsentertainmentnews/</id>
         <link href="https://hotpotwing.tk/post/choisooyoung-runon-interviews-sbsentertainmentnews/">
         </link>
@@ -35,7 +42,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜权俞利2021年《Harper's Bazaar》3月号]]></title>
+        <title type="html"><![CDATA[采访翻译｜权俞利2021年杂志《Harper's Bazaar》3月号]]></title>
         <id>https://hotpotwing.tk/post/kwonyuri-harpersbazaar-march-interview/</id>
         <link href="https://hotpotwing.tk/post/kwonyuri-harpersbazaar-march-interview/">
         </link>
@@ -72,7 +79,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC水木剧《Run On》终映采访（news1）]]></title>
+        <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC电视剧《Run On》终映采访（news1）]]></title>
         <id>https://hotpotwing.tk/post/choisooyoung-runon-interviews-news1/</id>
         <link href="https://hotpotwing.tk/post/choisooyoung-runon-interviews-news1/">
         </link>
@@ -123,17 +130,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>在2020年tvN木曜日电视剧《机智的医生生活中》，热演着外科住院医生3年次张冬天的申贤彬，1日早上在首尔江南区一处咖啡厅接受了终映纪念采访。</p>
 <p>申贤彬过去出演了电视剧《推理的女王》、《情妇》、《自白》，电影《边山》、《抓住救命稻草的野兽们》之后，在这次的《机智的医生生活》中展现了存在感，作为演员的她也吸引了大众的关注。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬2020年电影《抓住救命稻草的野兽们》宣传采访（news1）]]></title>
-        <id>https://hotpotwing.tk/post/shinhyunbeen-beastsclawingatstraws-interviews-news1/</id>
-        <link href="https://hotpotwing.tk/post/shinhyunbeen-beastsclawingatstraws-interviews-news1/">
-        </link>
-        <updated>2020-05-24T21:44:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>电影《抓住救命稻草的野兽们》以各个人物强烈的性格和叙事，将观众们的紧张感维持到了电影结束。他们是用演技来实现的，在全度妍、郑雨盛、裴晟佑、尹汝贞等演员们令人窒息的热情表演中，有着展现自身真正价值的演员，那个人就是主妇美兰的饰演者申贤彬。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>电影《抓住救命稻草的野兽们》以各个人物强烈的性格和叙事，将观众们的紧张感维持到了电影结束。他们是用演技来实现的，在全度妍、郑雨盛、裴晟佑、尹汝贞等演员们令人窒息的热情表演中，有着展现自身真正价值的演员，那个人就是主妇美兰的饰演者申贤彬。</p>
 ]]></content>
     </entry>
 </feed>
