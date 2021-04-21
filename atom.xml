@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hotpotwing.tk</id>
     <title>KEONANDC</title>
-    <updated>2021-04-19T19:19:26.713Z</updated>
+    <updated>2021-04-21T19:08:33.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hotpotwing.tk"/>
     <link rel="self" href="https://hotpotwing.tk/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://hotpotwing.tk/images/avatar.png</logo>
     <icon>https://hotpotwing.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, KEONANDC</rights>
+    <entry>
+        <title type="html"><![CDATA[采访翻译｜权俞利2021年杂志《Cosmopolitan》5月号]]></title>
+        <id>https://hotpotwing.tk/post/kwonyuri-cosmopolitan-interview-may-2021/</id>
+        <link href="https://hotpotwing.tk/post/kwonyuri-cosmopolitan-interview-may-2021/">
+        </link>
+        <updated>2021-04-21T18:30:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>权俞利和丁一宇在流逝的时间里顺其自然地相信命运，就像未曾预想过的两位演员命运般地相遇那样。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>权俞利和丁一宇在流逝的时间里顺其自然地相信命运，就像未曾预想过的两位演员命运般地相遇那样。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访翻译｜崔秀英2021年JTBC电视剧《Run On》终映采访（综合）]]></title>
         <id>https://hotpotwing.tk/post/choisooyoung-runon-interviews/</id>
@@ -117,19 +128,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<h3 id="为了深深地扎根秀英">为了深深地扎根，秀英</h3>
 <p>虽然比任何人都更严格地对待自己，但也拥有一颗懂得接纳的宽容之心。今天也是不断前进的演员崔秀英。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访翻译｜申贤彬2020年tvN电视剧《机智的医生生活》终映采访（news1）]]></title>
-        <id>https://hotpotwing.tk/post/shinhyunbeen-hospitalplaylist-interviews-news1/</id>
-        <link href="https://hotpotwing.tk/post/shinhyunbeen-hospitalplaylist-interviews-news1/">
-        </link>
-        <updated>2020-06-02T03:48:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>在2020年tvN木曜日电视剧《机智的医生生活中》，热演着外科住院医生3年次张冬天的申贤彬，1日早上在首尔江南区一处咖啡厅接受了终映纪念采访。</p>
-<p>申贤彬过去出演了电视剧《推理的女王》、《情妇》、《自白》，电影《边山》、《抓住救命稻草的野兽们》之后，在这次的《机智的医生生活》中展现了存在感，作为演员的她也吸引了大众的关注。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>在2020年tvN木曜日电视剧《机智的医生生活中》，热演着外科住院医生3年次张冬天的申贤彬，1日早上在首尔江南区一处咖啡厅接受了终映纪念采访。</p>
-<p>申贤彬过去出演了电视剧《推理的女王》、《情妇》、《自白》，电影《边山》、《抓住救命稻草的野兽们》之后，在这次的《机智的医生生活》中展现了存在感，作为演员的她也吸引了大众的关注。</p>
 ]]></content>
     </entry>
 </feed>
